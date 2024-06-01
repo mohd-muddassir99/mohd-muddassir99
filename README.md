@@ -13,7 +13,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 
 - Languages: SQL, Python 🐍.
 - Data Analysis Libraries: Pandas, NumPy, Matplotlib, Seaborn.
-- Databases: PostgreSQL, SQLite.
+- Databases: PostgreSQL,My SQL.
 - Spreadsheet Tools: Microsoft Excel 📈, Google Sheets 📊.
 - Data Visualization: Power BI, Tableau.
 
