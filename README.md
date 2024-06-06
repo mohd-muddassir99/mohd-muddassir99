@@ -6,7 +6,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 
 - Exploring data and deriving meaningful patterns to drive informed decision-making.
 - Cleaning and transforming messy data into tidy, structured formats.
-- Analyzing data using Excel, SQL, Google Sheets, and Python.
+- Analyzing data using Excel, SQL, and Python.
 - Creating interactive data visualizations for clear and engaging presentations.
 
 ## 🌱 My Data Toolbox
