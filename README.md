@@ -24,6 +24,13 @@ I'm always eager to collaborate, learn, and share knowledge. Feel free to reach 
 ---
 _Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects._
 
+🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
 
 <!--
 **mohd-muddassir99/mohd-muddassir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
