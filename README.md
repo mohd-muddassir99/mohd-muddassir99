@@ -19,8 +19,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 
 ## 📧 Let's Connect!
 
-I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out to me via email at mkkhan913106@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/mohd-muddassir99/
-
+I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out to me via email at mkkhan913106@gmail.com.
 ---
 _Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects._
 
