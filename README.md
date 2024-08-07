@@ -11,7 +11,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 
 ## 🌱 My Data Toolbox
 
-- Languages: SQL, Python 🐍.
+- Languages: SQL, Python, JQL.
 - Data Analysis Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 - Databases: PostgreSQL,My SQL.
 - Spreadsheet Tools: Microsoft Excel, Google Sheets.
