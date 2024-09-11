@@ -18,9 +18,12 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 - Spreadsheet Tools: Microsoft Excel, Google Sheets.
 - Data Visualization: Power BI, Tableau.
 
-## ✉️ Let's Connect!
+## ✉️ Let's Connect! 
+ I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out to me via email at mkkhan913106@gmail.com.
 
-I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out to me via email at mkkhan913106@gmail.com.
+
+
+
 ---
 _Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects._
 
