@@ -19,7 +19,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 - Data Visualization: Power BI, Tableau.
 
 ## ✉️ Let's Connect! 
- I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out to me via email at mkkhan913106@gmail.com.
+ I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out to me via email at mkkhan913106@gmail.com
 
 
 
