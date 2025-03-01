@@ -25,8 +25,11 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 
 
 ---
-_Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects._
-
+ 
+<div align="center">
+<p align="center">
+    Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
+    
 🔗 Connect with me on LinkedIn 
  
   <p align="center">
@@ -34,6 +37,10 @@ _Thanks for visiting my GitHub! If you find my work fascinating, don't forget to
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
         LinkedIn
     </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
 
 <!--
 **mohd-muddassir99/mohd-muddassir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
