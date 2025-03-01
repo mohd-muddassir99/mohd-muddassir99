@@ -25,8 +25,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
 
 
 ---
- 
-<div align="center">
+ <div align="center">
 <p align="center">
     Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
     
