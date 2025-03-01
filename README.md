@@ -38,7 +38,7 @@ I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of 
     </a>
 
    | **Mohd Muddassir** | </a> <br>
-Don't forget to follow and star ⭐ the repository if you find it valuable.
+Don't forget to follow if you find it valuable.
 </div>
 
 <!--
