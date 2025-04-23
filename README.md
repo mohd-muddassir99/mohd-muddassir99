@@ -3,7 +3,7 @@
 ---
 I'm **Mohd Muddassir**, a student of **MBA(Data Analytics)** with a skillset of converting raw data into much desired format.
 
-## 🔭 What I Do as a professionals 
+## 🔭 What I Do as a professionals
 
 - Exploring data and deriving meaningful patterns to drive informed decision-making.
 - Cleaning and transforming messy data into tidy, structured formats.
